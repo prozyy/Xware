@@ -62,3 +62,14 @@ finished.
 ![png](https://github.com/prozyy/Xware/blob/master/Img/21.jpg)
 
  绑定成功就可以愉快的享受远程下载了 
+
+ 绑定成功后停止服务命令：
+ 
+ 
+```
+./portal -s
+```
+开启服务的命令  
+```
+./portal
+```
