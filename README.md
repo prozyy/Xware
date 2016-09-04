@@ -18,7 +18,8 @@
 下面以Xware1.0.31_mipsel_32_uclibc.zip安装在MT7620上为例  
 解压Xware1.0.31_mipsel_32_uclibc.zip压缩包，发现只有4个文件  
 将这四个文件通过winscp都复制到路由器下  
- putty  登录，切换目录到存放上边四个文件的存放上边四个文件的目录执行下边的命令
+ putty  登录，切换目录到存放上边四个文的目录,执行下边的命令
+ 
  '''
  chmod 777 *
  ./portal
